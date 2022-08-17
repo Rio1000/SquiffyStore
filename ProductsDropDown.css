@@ -1,0 +1,27 @@
+.dropdown-container {
+	display: none;
+	padding-left: 8px;
+  }
+  
+  /* Optional: Style the caret down icon */
+  .fa-caret-down {
+	float: right;
+	padding-right: 8px;
+  }
+  .menu-item1 {
+	display: block;
+	padding: 1em;
+	background-color: #3369ff;
+    border:none;
+    border-radius: 10px;
+    color: rgb(0, 0, 0);
+    font-size: 18px;
+    margin-top: 20px;
+    cursor: pointer;
+    transition:transform 0.5s;
+	width: 75%;
+	text-decoration: none;
+	overflow:hidden;
+	text-align: center;
+	
+}
